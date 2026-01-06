@@ -1,0 +1,12 @@
+16:42:40.833 [main] INFO  testCases.TC002_LoginTest - ***Logged In***
+16:46:23.831 [main] INFO  testCases.TC001_AccountRegistrationTest - ****TC001_AccountRegistrationTest****
+16:46:23.937 [main] INFO  testCases.TC001_AccountRegistrationTest - Clicked My Account
+16:46:24.616 [main] INFO  testCases.TC001_AccountRegistrationTest - Clicked Register
+16:46:24.622 [main] INFO  testCases.TC001_AccountRegistrationTest - providing register details
+16:46:26.387 [main] INFO  testCases.TC001_AccountRegistrationTest - ****Finished TC001_AccountRegistrationTest****
+16:46:29.824 [main] INFO  testCases.TC002_LoginTest - ***Test TC002_LoginTest Started***
+16:46:30.599 [main] INFO  testCases.TC002_LoginTest - ***Account clicked***
+16:46:31.408 [main] INFO  testCases.TC002_LoginTest - ***Login clicked***
+16:46:31.588 [main] INFO  testCases.TC002_LoginTest - ***Email set***
+16:46:31.714 [main] INFO  testCases.TC002_LoginTest - ***password set***
+16:46:31.844 [main] INFO  testCases.TC002_LoginTest - ***Logged In***

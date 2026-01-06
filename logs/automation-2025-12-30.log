@@ -1,0 +1,49 @@
+17:02:28.067 [main] INFO  testCases.TC001_AccountRegistrationTest - ****TC001_AccountRegistrationTest****
+17:02:28.196 [main] INFO  testCases.TC001_AccountRegistrationTest - Clicked My Account
+17:02:28.858 [main] INFO  testCases.TC001_AccountRegistrationTest - Clicked Register
+17:02:28.861 [main] INFO  testCases.TC001_AccountRegistrationTest - providing register details
+17:02:30.738 [main] INFO  testCases.TC001_AccountRegistrationTest - ****Finished TC001_AccountRegistrationTest****
+17:02:33.929 [main] INFO  testCases.TC001_AccountRegistrationTest - ****TC001_AccountRegistrationTest****
+17:02:34.015 [main] INFO  testCases.TC001_AccountRegistrationTest - Clicked My Account
+17:02:34.753 [main] INFO  testCases.TC001_AccountRegistrationTest - Clicked Register
+17:02:34.754 [main] INFO  testCases.TC001_AccountRegistrationTest - providing register details
+17:02:36.430 [main] INFO  testCases.TC001_AccountRegistrationTest - ****Finished TC001_AccountRegistrationTest****
+17:02:42.280 [main] INFO  testCases.TC001_AccountRegistrationTest - ****TC001_AccountRegistrationTest****
+17:02:42.369 [main] INFO  testCases.TC001_AccountRegistrationTest - Clicked My Account
+17:02:43.025 [main] INFO  testCases.TC001_AccountRegistrationTest - Clicked Register
+17:02:43.025 [main] INFO  testCases.TC001_AccountRegistrationTest - providing register details
+17:02:44.337 [main] INFO  testCases.TC001_AccountRegistrationTest - ****Finished TC001_AccountRegistrationTest****
+17:03:17.084 [main] INFO  testCases.TC001_AccountRegistrationTest - ****TC001_AccountRegistrationTest****
+17:03:17.181 [main] INFO  testCases.TC001_AccountRegistrationTest - Clicked My Account
+17:03:17.850 [main] INFO  testCases.TC001_AccountRegistrationTest - Clicked Register
+17:03:17.852 [main] INFO  testCases.TC001_AccountRegistrationTest - providing register details
+17:03:19.765 [main] INFO  testCases.TC001_AccountRegistrationTest - ****Finished TC001_AccountRegistrationTest****
+17:03:22.938 [main] INFO  testCases.TC001_AccountRegistrationTest - ****TC001_AccountRegistrationTest****
+17:03:23.032 [main] INFO  testCases.TC001_AccountRegistrationTest - Clicked My Account
+17:03:23.726 [main] INFO  testCases.TC001_AccountRegistrationTest - Clicked Register
+17:03:23.726 [main] INFO  testCases.TC001_AccountRegistrationTest - providing register details
+17:03:25.322 [main] INFO  testCases.TC001_AccountRegistrationTest - ****Finished TC001_AccountRegistrationTest****
+17:03:30.249 [main] INFO  testCases.TC001_AccountRegistrationTest - ****TC001_AccountRegistrationTest****
+17:03:30.341 [main] INFO  testCases.TC001_AccountRegistrationTest - Clicked My Account
+17:03:30.984 [main] INFO  testCases.TC001_AccountRegistrationTest - Clicked Register
+17:03:30.984 [main] INFO  testCases.TC001_AccountRegistrationTest - providing register details
+17:03:32.299 [main] INFO  testCases.TC001_AccountRegistrationTest - ****Finished TC001_AccountRegistrationTest****
+17:04:31.825 [TestNG-tests-2] INFO  testCases.TC001_AccountRegistrationTest - ****TC001_AccountRegistrationTest****
+17:04:32.341 [TestNG-tests-1] INFO  testCases.TC001_AccountRegistrationTest - ****TC001_AccountRegistrationTest****
+17:04:32.439 [TestNG-tests-2] INFO  testCases.TC001_AccountRegistrationTest - Clicked My Account
+17:04:32.595 [TestNG-tests-1] INFO  testCases.TC001_AccountRegistrationTest - Clicked My Account
+17:04:33.308 [TestNG-tests-2] INFO  testCases.TC001_AccountRegistrationTest - Clicked Register
+17:04:33.313 [TestNG-tests-2] INFO  testCases.TC001_AccountRegistrationTest - providing register details
+17:04:33.420 [TestNG-tests-1] INFO  testCases.TC001_AccountRegistrationTest - Clicked Register
+17:04:33.420 [TestNG-tests-1] INFO  testCases.TC001_AccountRegistrationTest - providing register details
+17:04:33.970 [TestNG-tests-3] INFO  testCases.TC001_AccountRegistrationTest - ****TC001_AccountRegistrationTest****
+17:04:34.080 [TestNG-tests-3] INFO  testCases.TC001_AccountRegistrationTest - Clicked My Account
+17:04:34.767 [TestNG-tests-3] INFO  testCases.TC001_AccountRegistrationTest - Clicked Register
+17:04:34.768 [TestNG-tests-3] INFO  testCases.TC001_AccountRegistrationTest - providing register details
+17:04:36.139 [TestNG-tests-1] INFO  testCases.TC001_AccountRegistrationTest - ****Finished TC001_AccountRegistrationTest****
+17:04:36.175 [TestNG-tests-2] INFO  testCases.TC001_AccountRegistrationTest - ****Finished TC001_AccountRegistrationTest****
+17:04:36.353 [TestNG-tests-3] INFO  testCases.TC001_AccountRegistrationTest - ****Finished TC001_AccountRegistrationTest****
+19:28:03.828 [TestNG-tests-2] INFO  testCases.TC001_AccountRegistrationTest - ****TC001_AccountRegistrationTest****
+19:28:03.863 [TestNG-tests-1] INFO  testCases.TC001_AccountRegistrationTest - ****TC001_AccountRegistrationTest****
+19:28:04.015 [TestNG-tests-1] INFO  testCases.TC001_AccountRegistrationTest - Clicked My Account
+19:28:04.066 [TestNG-tests-2] INFO  testCases.TC001_AccountRegistrationTest - Clicked My Account

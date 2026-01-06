@@ -1,0 +1,36 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!-- Extra logging related to initialization of Log4j.
+ Set to debug or trace if log4j initialization is failing. -->
+<Configuration status="WARN">
+ <Properties>
+		<Property name="basePath">./logs</Property>
+	</Properties>
+    	<!-- Console appender configuration -->
+        
+    <Appenders>
+    	<!-- Console appender configuration -->
+        <Console name="Console" target="SYSTEM_OUT">
+            <PatternLayout
+                pattern="%d{HH:mm:ss.SSS} [%t] %-5level %logger{36} - %msg%n" />
+        </Console>
+          
+        <RollingFile name="File" fileName="${basePath}/automation.log"
+            filePattern="${basePath}/automation-%d{yyyy-MM-dd}.log">
+            <PatternLayout
+                pattern="%d{HH:mm:ss.SSS} [%t] %-5level %logger{36} - %msg%n" />
+            <Policies>
+                <SizeBasedTriggeringPolicy size="5000" />
+            </Policies>
+        </RollingFile>  
+        
+    </Appenders>
+    <Loggers>
+    	<!-- Root logger referring to console appender -->
+        <Root level="Debug"><!-- Here you can use multiple log levels 
+        All <Trace <Debug <Info <Warn <Error <Fatal <Off -->
+            <AppenderRef ref="File" /> <!-- to generate logs in File we use this appender reference-->
+            <!--<AppenderRef ref="Console" /> --><!-- to generate logs in Console we use this appender reference-->
+        </Root>
+    </Loggers>
+
+</Configuration>
